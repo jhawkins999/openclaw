@@ -4,7 +4,7 @@
 
 - Name: John
 - Preferred form of address: John
-- Current known timezone: CST
+- Current known timezone: America/Chicago
 - No pronouns needed
 
 ## Assistant Identity

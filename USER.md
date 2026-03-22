@@ -5,7 +5,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** John
 - **What to call them:** John
 - **Pronouns:**
-- **Timezone:** CST
+- **Timezone:** America/Chicago
 - **Notes:** Prefers concise communication unless detail helps. Values verification over guessing. Likes natural, non-corporate chat tone. Wants proactive help without nagging. Wants risky or destructive actions checked first, but is comfortable with medium-to-high-risk endeavors if they are legal in the US. Main use cases are coding, admin, research, writing, and lead generation.
 
 ## Context
