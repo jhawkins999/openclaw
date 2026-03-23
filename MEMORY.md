@@ -66,7 +66,7 @@
   - missed calls / missed jobs
   - paperwork and admin overload
   - growing need for AI, efficiency, and process support
-- Conclusion: roofing is a promising future vertical, even if not the very first wedge right now.
+- Conclusion: roofing is a promising vertical and has now been selected as the first Answer vertical to develop due to current local storm-driven urgency and clear ROI path.
 
 ## Force Multiplier ICP
 
