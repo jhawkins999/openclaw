@@ -56,6 +56,17 @@
 - Force Multiplier: AI implementation leadership and business coach system built in Manus
 - answer.triwise.com: GoHighLevel voice AI agent for businesses
 
+## Market / Vertical Notes
+
+- Kansas City, MO recently had a major hail storm that appears to have created heavy roofing demand.
+- In John's neighborhood alone, over half the roofs may need replacement.
+- Roofing could become a strong vertical in the next 1-6 months because roofers may have:
+  - sudden inbound demand spikes
+  - missed calls / missed jobs
+  - paperwork and admin overload
+  - growing need for AI, efficiency, and process support
+- Conclusion: roofing is a promising future vertical, even if not the very first wedge right now.
+
 ## Force Multiplier ICP
 
 - Audience: founder-led companies, SMB owners, and business leaders
