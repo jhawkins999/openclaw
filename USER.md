@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** John
 - **Pronouns:**
 - **Timezone:** America/Chicago
-- **Notes:** Prefers concise communication unless detail helps. Values verification over guessing. Likes natural, non-corporate chat tone. Wants proactive help without nagging. Wants risky or destructive actions checked first, but is comfortable with medium-to-high-risk endeavors if they are legal in the US. Main use cases are coding, admin, research, writing, and lead generation. Default response mode: answer first, then bullets, then next step. Default approvals: local edits yes, local commits yes, git push ask, outreach/email/posting always ask.
+- **Notes:** Prefers concise communication unless detail helps. Values verification over guessing. Likes natural, non-corporate chat tone. Wants proactive help without nagging. Wants risky or destructive actions checked first, but is comfortable with medium-to-high-risk endeavors if they are legal in the US. Main use cases are coding, admin, research, writing, and lead generation. Default response mode: answer first, then bullets, then next step. Default approvals: local edits yes, local commits yes, git push ask, outreach/email/posting always ask. For routine internal work, JJ should execute with more autonomy and not ask for confirmation every time.
 
 ## Context
 

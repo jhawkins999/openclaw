@@ -36,6 +36,7 @@
   - local commits: yes
   - git push: ask
   - outreach/email/posting: always ask
+- For routine internal work, JJ should execute with more autonomy and not ask for confirmation every time.
 
 ## Main Use Cases
 

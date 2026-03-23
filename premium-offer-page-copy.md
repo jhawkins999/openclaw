@@ -1,11 +1,12 @@
 # Premium Offer Page Copy
 
-## Founder Bottleneck Diagnostic + 30-Day Execution Sprint
+## When a Company Grows, the Founder Often Becomes the Bottleneck
 
-### Growth should get easier.
-### For many founder-led companies, it gets heavier.
+Growth should get easier.
 
-Most companies do not stall because of weak products, poor demand, or lack of effort.
+For many founder-led companies, it gets heavier.
+
+Most businesses do not stall because of poor products, weak demand, or lack of effort.
 
 They stall because growth creates complexity faster than leadership systems mature.
 
@@ -17,35 +18,37 @@ But clarity does not scale with it.
 
 Decisions slow down.
 Standards drift.
-Execution becomes reactive.
+Execution becomes reactive instead of deliberate.
 
-And eventually, everything still runs through the founder.
+And eventually, too much still runs through the founder.
 
-If that sounds familiar, the problem is probably not effort.
-It is leadership leverage.
+That is where good companies quietly stall.
 
-## The real bottleneck is not the business.
-## It is what still depends on you.
+## The problem is not effort.
+## The problem is leadership leverage.
 
-When founder-led companies hit the $3M-$15M range, the same patterns show up again and again:
+At roughly $3M-$15M in revenue, the same patterns show up again and again:
 
 - too many decisions still route through the founder
 - leadership teams do not fully carry execution
+- accountability is inconsistent
 - priorities blur under pressure
-- meetings multiply but traction does not
+- meetings multiply, but traction does not
 - growth starts feeling heavier instead of more scalable
 
-This is where good companies quietly stall.
+The constraint is rarely the market.
 
-## What this offer is
+The constraint is what still depends on you.
+
+## What this is
 
 This is not generic coaching.
-It is not consulting theater.
+It is not consultant theater.
 And it is not a long discovery engagement designed to keep you talking in circles.
 
 The Founder Bottleneck Diagnostic + 30-Day Execution Sprint is a focused operator-led intervention designed to identify the real constraint and fix the highest-leverage bottleneck fast.
 
-## What we do first
+## What happens first
 
 ### Step 1 — Founder Bottleneck Diagnostic
 
@@ -56,28 +59,29 @@ We look at the business through four lenses:
 - execution drag
 - accountability and operating rhythm
 
-The goal is not to generate a long report.
+The goal is not to produce a long report.
 The goal is to identify the real bottleneck behind the symptoms.
 
 You get:
-- bottleneck diagnosis
-- top 3 constraints summary
-- recommended intervention focus
-- 30-day execution roadmap
+- a founder bottleneck diagnosis
+- a summary of the top 3 constraints
+- the primary leverage point to fix first
+- a recommended 30-day roadmap
 
 ## Then we fix the right problem
 
 ### Step 2 — 30-Day Execution Sprint
 
-Once the real bottleneck is clear, we spend 30 days fixing the highest-leverage constraint.
+Once the real bottleneck is clear, we spend 30 days correcting the highest-leverage constraint.
 
 That may include:
 - clarifying decision rights
 - tightening leadership cadence
 - improving accountability structure
-- pressure-testing major decisions
+- pressure-testing high-stakes decisions
 - reducing execution drag
 - restoring priority discipline
+- installing stronger operating rhythms
 
 This is designed to create movement quickly, not someday.
 
@@ -92,6 +96,7 @@ Expected outcomes:
 - less founder dependency
 - clearer priorities
 - more consistent execution
+- increased confidence in the leadership team’s ability to carry the business forward
 
 ## Who this is for
 
@@ -99,7 +104,8 @@ This is a fit if:
 - you lead a founder-driven company
 - the business is growing, but leadership complexity is rising
 - execution still depends too heavily on you
-- you know the business needs a stronger operating structure
+- you know the company needs a stronger operating structure
+- you want implementation and correction, not just ideas
 
 Best fit is typically:
 - founder-led companies
@@ -112,7 +118,7 @@ This is not a fit if:
 - you want validation instead of challenge
 - you want motivational coaching instead of operational correction
 - you are looking for vague strategy without execution discipline
-- you are not willing to change the way decisions and accountability work
+- you are unwilling to change the way decisions and accountability work
 
 ## Why John Hawkins
 
@@ -125,16 +131,16 @@ Former roles include:
 - SVP of Client Success
 
 Representative proof includes:
-- major revenue transformation in a struggling division
-- large client satisfaction turnaround on a $100M division
-- successful company sale with 100% employee retention
+- a major revenue transformation in a struggling division
+- a major client satisfaction turnaround on a $100M division
+- a successful company sale with 100% employee retention
 - work across 250+ companies
 
 This is operator work, not theory.
 
 ## Engagement options
 
-### Diagnostic Only
+### Founder Bottleneck Diagnostic
 **$3,500**
 
 Includes:
@@ -143,7 +149,7 @@ Includes:
 - summary of key drag points
 - recommended 30-day roadmap
 
-### Diagnostic + 30-Day Execution Sprint
+### Founder Bottleneck Diagnostic + 30-Day Execution Sprint
 **$10,000**
 
 Includes:
@@ -151,7 +157,7 @@ Includes:
 - weekly strategic working sessions
 - decision pressure-testing
 - execution reset work
-- leadership / accountability interventions
+- leadership and accountability interventions
 - Force Multiplier support layer where appropriate
 
 ## Next step
