@@ -67,6 +67,7 @@
   - paperwork and admin overload
   - growing need for AI, efficiency, and process support
 - Conclusion: roofing is a promising vertical and has now been selected as the first Answer vertical to develop due to current local storm-driven urgency and clear ROI path.
+- Roofing package assets now include positioning, offer-page copy, one-pager, outreach, demo outline, and lead qualification notes.
 
 ## Force Multiplier ICP
 
